@@ -1,2 +1,2 @@
 # blender-splink
-Substance Painter plugin or blender integration
+Substance Painter plugin for blender integration
